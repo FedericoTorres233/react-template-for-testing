@@ -1,9 +1,11 @@
-# React template for testing
+# Simple React template
 
-Created in order to have all the files without the unnecessary code in case I want to test something in React. However, its main purpose is not to be a replacement for `create-react-app` when having to start a new project but its intended for testing purposes.
+Created in order to have all the files I need for a simple React Webapp.
+
+_I will be adding some libraries such as TailwindCss or Web3JS in the future_
 
 ## Usage
 
-`npx create-react-app "name of the test"` to have all the **node modules** and the **json packages**. Then, replace the public and src folders with those of the repository.
+`npi -i"` to install the dependecies.
 
-`npm start` and a blank page should be seen in the browser.
+`npm start` and a blank page should appear in the browser.
